@@ -6,10 +6,7 @@ Webp 格式的图片压缩工具，基于 [Google Webp](https://developers.googl
 
 ### 使用方法
 
-1. 下载
-
--   [下载地址](https://developers.google.cn/speed/webp/download?hl=zh-cn)
-
+1. [下载](https://developers.google.cn/speed/webp/download?hl=zh-cn)
 2. 解压压缩包，将文件夹放到个人某个盘的目录下
 3. 复制粘贴后的文件夹路径，添加到系统环境变量中
 4. 打开 cmd，运行 cwebp 命令，查看是否安装成功
