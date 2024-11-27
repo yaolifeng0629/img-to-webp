@@ -14,4 +14,5 @@ Webp 格式的图片压缩工具，基于 [Google Webp](https://developers.googl
 
 ```sh
 node index.js [转换的质量(0-100)] [需要压缩的路径(绝对路径)]
+# node index.js 30 "D:\\Projects\\PersonalProject\\Github\\img-to-webp\\shorts"
 ```
